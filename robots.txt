@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://liruivah.github.io//sitemap.xml
+Sitemap: https://liruivah.github.io//new_liruivah.github.io/# the subpath of your site, e.g. /blog/. Leave blank for root/sitemap.xml
